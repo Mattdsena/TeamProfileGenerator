@@ -20,6 +20,7 @@ Run `npm test` to run Jest for tests on constructors, as seen below, the tests r
 
 <img src="./assets/tests.jpg">
 
+Please note I added some styling to my page after my walk through video 
 
 ## Questions
 If you have any questions about this projects, please contact me directly at matthewdsena@gmail.com. 
